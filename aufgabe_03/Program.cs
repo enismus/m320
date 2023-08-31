@@ -12,7 +12,7 @@ namespace Calculator
 
             while (true)
             {
-                Console.WriteLine("Choose your option-->");
+                Console.WriteLine("Choose your option");
                 Console.WriteLine("1. Addition");
                 Console.WriteLine("2. Subtraction");
                 Console.WriteLine("3. Multiply");
