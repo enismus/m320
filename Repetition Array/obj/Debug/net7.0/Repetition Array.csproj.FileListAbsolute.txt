@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\bin\Debug\net7.0\Repetition Array.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\bin\Debug\net7.0\Repetition Array.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\bin\Debug\net7.0\Repetition Array.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\bin\Debug\net7.0\Repetition Array.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\bin\Debug\net7.0\Repetition Array.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\refint\Repetition Array.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\Repetition Array.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Repetition Array\obj\Debug\net7.0\ref\Repetition Array.dll

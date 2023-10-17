@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\bin\Debug\net7.0\uebungsdatei.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\bin\Debug\net7.0\uebungsdatei.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\bin\Debug\net7.0\uebungsdatei.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\bin\Debug\net7.0\uebungsdatei.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\bin\Debug\net7.0\uebungsdatei.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\refint\uebungsdatei.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\uebungsdatei.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\uebungsdatei\obj\Debug\net7.0\ref\uebungsdatei.dll

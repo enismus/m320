@@ -1,0 +1,5 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Projekt Shapes\obj\Debug\net7.0\Projekt Shapes.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Projekt Shapes\obj\Debug\net7.0\Projekt Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Projekt Shapes\obj\Debug\net7.0\Projekt Shapes.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Projekt Shapes\obj\Debug\net7.0\Projekt Shapes.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Projekt Shapes\obj\Debug\net7.0\Projekt Shapes.csproj.CoreCompileInputs.cache

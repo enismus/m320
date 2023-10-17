@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Assoziationen_uebung2/1.0.0": {
+        "runtime": {
+          "Assoziationen_uebung2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assoziationen_uebung2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

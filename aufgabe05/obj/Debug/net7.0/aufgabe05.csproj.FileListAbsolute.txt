@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\bin\Debug\net7.0\aufgabe05.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\bin\Debug\net7.0\aufgabe05.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\bin\Debug\net7.0\aufgabe05.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\bin\Debug\net7.0\aufgabe05.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\bin\Debug\net7.0\aufgabe05.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\refint\aufgabe05.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\aufgabe05.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe05\obj\Debug\net7.0\ref\aufgabe05.dll

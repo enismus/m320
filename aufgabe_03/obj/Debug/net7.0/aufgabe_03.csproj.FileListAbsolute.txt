@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\bin\Debug\net7.0\aufgabe_03.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\bin\Debug\net7.0\aufgabe_03.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\bin\Debug\net7.0\aufgabe_03.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\bin\Debug\net7.0\aufgabe_03.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\bin\Debug\net7.0\aufgabe_03.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\refint\aufgabe_03.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\aufgabe_03.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\aufgabe_03\obj\Debug\net7.0\ref\aufgabe_03.dll

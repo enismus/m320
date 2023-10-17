@@ -1,0 +1,5 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Konstruktoren\obj\Debug\net7.0\Konstruktoren.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Konstruktoren\obj\Debug\net7.0\Konstruktoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Konstruktoren\obj\Debug\net7.0\Konstruktoren.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Konstruktoren\obj\Debug\net7.0\Konstruktoren.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Konstruktoren\obj\Debug\net7.0\Konstruktoren.csproj.CoreCompileInputs.cache

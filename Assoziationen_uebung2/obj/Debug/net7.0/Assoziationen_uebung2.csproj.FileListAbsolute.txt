@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\bin\Debug\net7.0\Assoziationen_uebung2.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\bin\Debug\net7.0\Assoziationen_uebung2.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\bin\Debug\net7.0\Assoziationen_uebung2.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\bin\Debug\net7.0\Assoziationen_uebung2.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\bin\Debug\net7.0\Assoziationen_uebung2.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\refint\Assoziationen_uebung2.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\Assoziationen_uebung2.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Assoziationen_uebung2\obj\Debug\net7.0\ref\Assoziationen_uebung2.dll
