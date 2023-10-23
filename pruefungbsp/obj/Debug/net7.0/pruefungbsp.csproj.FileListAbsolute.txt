@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\bin\Debug\net7.0\pruefungbsp.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\bin\Debug\net7.0\pruefungbsp.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\bin\Debug\net7.0\pruefungbsp.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\bin\Debug\net7.0\pruefungbsp.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\bin\Debug\net7.0\pruefungbsp.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\refint\pruefungbsp.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\pruefungbsp.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\pruefungbsp\obj\Debug\net7.0\ref\pruefungbsp.dll

@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\bin\Debug\net7.0\Lidl.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\bin\Debug\net7.0\Lidl.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\bin\Debug\net7.0\Lidl.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\bin\Debug\net7.0\Lidl.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\bin\Debug\net7.0\Lidl.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\refint\Lidl.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\Lidl.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Lidl\obj\Debug\net7.0\ref\Lidl.dll
