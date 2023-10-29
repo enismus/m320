@@ -1,0 +1,15 @@
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\bin\Debug\net7.0\Wasserfass.exe
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\bin\Debug\net7.0\Wasserfass.deps.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\bin\Debug\net7.0\Wasserfass.runtimeconfig.json
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\bin\Debug\net7.0\Wasserfass.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\bin\Debug\net7.0\Wasserfass.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.csproj.AssemblyReference.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.AssemblyInfoInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.AssemblyInfo.cs
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.csproj.CoreCompileInputs.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\refint\Wasserfass.dll
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.pdb
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\Wasserfass.genruntimeconfig.cache
+C:\Users\spres\OneDrive - Kt. SG BLD\M320\Wasserfass\obj\Debug\net7.0\ref\Wasserfass.dll
