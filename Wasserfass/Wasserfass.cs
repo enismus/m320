@@ -12,7 +12,7 @@ public class wasserfass
     private int füllstand;
     private int kapazität;
 
-    // Konstruktor, um das Wasserfass zu initialisieren
+    
     public wasserfass(int minPegel, int maxPegel, int kapazität)
     {
         minimalPegel = minPegel;
@@ -21,7 +21,7 @@ public class wasserfass
         füllstand = minimalPegel;
     }
 
-    // Methode, um Wasser hinzuzufügen
+    
     public void WasserHinzufügen(int menge)
     {
         if (füllstand + menge <= kapazität)
@@ -35,7 +35,7 @@ public class wasserfass
         }
     }
 
-    // Methode, um Wasser zu entnehmen
+    
     public void WasserEntnehmen(int menge)
     {
         if (füllstand - menge >= minimalPegel)
@@ -49,7 +49,7 @@ public class wasserfass
         }
     }
 
-    // Methode, um das Fass komplett zu entleeren
+   
     public void FassEntleeren()
     {
         füllstand = minimalPegel;
