@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Geometrischefiguren
+
+public class Quadrat : Rechteck
 {
-    internal class Quadrat
+    public Quadrat(float x = 100.0f, float y = 100.0f, float seitenlänge = 2.0f)
+        : base(x, y, seitenlänge, seitenlänge)
     {
     }
 }

@@ -17,6 +17,7 @@ namespace Lidl
         public Person(string name, string vorname, int iDnumber, string key)
 
         {
+            
             Name = name;
             Vorname = vorname;
             IDnumber = iDnumber;

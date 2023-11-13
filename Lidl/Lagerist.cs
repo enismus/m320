@@ -12,6 +12,7 @@ namespace Lidl
         public double Groesse { get; set; }
         public Lagerist(string name, string vorname, int iDnumber, string key, double groesse) : base(vorname, name, iDnumber, key)
         {
+            Console.WriteLine("Konstrukturaufruf Lagerist");
             Groesse = groesse;
         }
 

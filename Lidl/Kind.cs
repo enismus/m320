@@ -12,6 +12,7 @@ namespace Lidl
         public Kind(string name, string vorname, int iDnumber, string key, int alter) : base(vorname, name, iDnumber, key) 
         
         { 
+
             Alter = alter;
         
         }
